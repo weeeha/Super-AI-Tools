@@ -204,7 +204,7 @@ lib/
   flow-schema.ts · flow-store.ts · flows.server.ts (read flows/ at build) · storage.ts (localStorage adapter) · utils.ts
 flows/
   ship.json · new-project.json · subagent-build-loop.json
-scripts/check-tokens.mts
+scripts/check-tokens.mjs              ported from Super-AI-Components, plain JS, no build step
 e2e/builder.spec.ts
 docs/superpowers/specs · docs/superpowers/plans
 ```
